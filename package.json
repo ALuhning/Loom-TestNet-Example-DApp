@@ -1,14 +1,21 @@
 {
-  "name": "loomlocal",
+  "name": "loomtestnet",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "bn.js": "^5.0.0",
+    "bootstrap": "^4.4.1",
+    "loom-js": "^1.71.0",
+    "loom-truffle-provider": "^0.13.0",
     "react": "^16.12.0",
+    "react-bootstrap": "^1.0.0-beta.16",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0"
+    "react-scripts": "3.3.0",
+    "web3": "^1.2.4",
+    "web3-eth-accounts": "^1.2.4"
   },
   "scripts": {
     "start": "react-scripts start",

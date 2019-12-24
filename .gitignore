@@ -10,9 +10,21 @@
 
 # production
 /build
+package-lock.json
+yarn.lock
+/src/abis
+
+#keys
+extdev_private_key
+extdev_public_key
+loom_private_key
+loom_public_key
+addresses.txt
+
 
 # misc
 .DS_Store
+.env
 .env.local
 .env.development.local
 .env.test.local
